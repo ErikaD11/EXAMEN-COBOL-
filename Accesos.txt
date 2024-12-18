@@ -1,0 +1,9 @@
+
+ACCESOS PARA EL PROGRAMA COBOL
+
+Usuario: admin
+Contraseña: 1234
+
+Notas:
+- El programa permite un máximo de 3 intentos.
+- Si se alcanzan 3 intentos fallidos, el programa se cerrará automáticamente.

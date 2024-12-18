@@ -1,0 +1,10 @@
+
+VERSIONES UTILIZADAS EN EL EXAMEN COBOL
+
+- Entorno de desarrollo: GnuCOBOL 3.1
+- Sistema operativo: Linux (compatible con compiladores de Windows y macOS)
+- Control de versiones: Git (inicialización y commits locales)
+
+Notas:
+- El código es compatible con cualquier compilador estándar COBOL que respete las especificaciones del lenguaje.
+- El archivo fue probado y documentado para asegurar compatibilidad y funcionalidad.

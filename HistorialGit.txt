@@ -1,0 +1,8 @@
+
+HISTORIAL DE COMMITS (SIMULADO)
+
+d4e8f91 - TuNombre: Initial commit: Programa COBOL con captura de datos y generación de CSV
+f5a7c23 - TuNombre: Added login validation with user access control
+9b6a8f0 - TuNombre: Implemented CSV generation for captured data
+c7e4a12 - TuNombre: Improved menu navigation and error handling
+b8f3d45 - TuNombre: Added version and access documentation files
